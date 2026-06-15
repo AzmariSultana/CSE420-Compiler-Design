@@ -17,6 +17,9 @@ f. Help students to learn about how to generate codes for target programming lan
 
 # Theory Recordings
 
+# RKBR
+    https://youtube.com/playlist?list=PLXfid7WbmqhB9VXiWGkwKbQm_hzvtivoW
+
 # SUE
     https://youtube.com/@sukarnasarker?si=cCVhnUdKe5QDQZ-Q
 
@@ -33,6 +36,9 @@ f. Help students to learn about how to generate codes for target programming lan
 
 # Lab 2
     https://youtu.be/_EJHBAeILN8
+
+# Lab 3
+    https://youtu.be/SV6iiyisj88
 
 # Lab 4
     https://youtu.be/43L4LnPjzAo
