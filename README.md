@@ -23,6 +23,9 @@ f. Help students to learn about how to generate codes for target programming lan
 # SUE
     https://youtube.com/@sukarnasarker?si=cCVhnUdKe5QDQZ-Q
 
+# MNY
+    https://www.youtube.com/playlist?list=PLELzlZoIF6ebkp7_SFKGyHFy_vm0r0LVe
+
 # ABU Hanif Siam
     https://youtube.com/playlist?list=PLsvKNqBM7Yn3Qa0UWQ_R2MzGFTkzCYYcj
 
