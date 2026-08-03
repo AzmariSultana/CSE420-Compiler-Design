@@ -1,0 +1,13 @@
+At line no: 6 Multiple declaration of variable c
+
+At line no: 7 array index is not of integer type : a
+
+At line no: 10 variable is of array type : a
+
+At line no: 11 variable is of array type : a
+
+At line no: 11 argument 1 type mismatch in function call: func
+
+At line no: 12 Undeclared variable b
+
+Total errors: 6
