@@ -44,6 +44,9 @@ https://youtu.be/fbqfdDZ-7KM?si=7e8K-OFa2a1Cf5hp
 ```
 # Lab 3
     https://youtu.be/SV6iiyisj88
+```
+https://youtu.be/Q4rhZzYBtv8?si=80W-BhDNDVJjqIDQ
+```
 
 # Lab 4
     https://youtu.be/43L4LnPjzAo
